@@ -5,4 +5,7 @@ In the evolving landscape of surgical specialties, the shift toward minimally in
 #### CARE Team - Remote Hub Lab, University of Washington
 #### Spezi Team - Stanford Byers Center for Biodesign Digital Health Group
 
-### CARE (2025)’s intended development and distribution framework flowchart, entirely using Apple native development and distribution platforms
+### CARE Development Architecture
+
+CARE (2025)’s intended development and distribution framework flowchart, entirely using Apple native development and distribution platforms
+![Arch](profile/resources/arch_09_04_24.png)
