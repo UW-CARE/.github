@@ -8,4 +8,5 @@ In the evolving landscape of surgical specialties, the shift toward minimally in
 ### CARE Development Architecture
 
 CARE (2025)’s intended development and distribution framework flowchart, entirely using Apple native development and distribution platforms
-<img src="resources/arch_09_04_24.png" width=250>
+
+<img src="resources/arch_09_04_24.png" width=500>
